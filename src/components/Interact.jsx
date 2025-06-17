@@ -5,7 +5,6 @@ import profile4 from '../assets/image/profile4.jpg';
 import profile5 from '../assets/image/profile5.jpg';
 import like from '../assets/image/like.png';
 
-
 const Interact = () => {
 return (
     <>  

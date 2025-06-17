@@ -4,14 +4,14 @@
         "title":"Blender",
         "description":"Blender is a powerful kitchen appliance designed for blending, mixing, pureeing, and crushing a variety of ingredients. Whether you're making smoothies, soups, sauces, or even grinding nuts and ice, this blender offers strong performance",
         "price":100.10,
-        "image":"../../image/Blender.png"
+        "image":"././image/Blender.png"
     },
     { 
         "id":2,
         "title":"Coffee Maker",
         "description":"A coffee maker is an essential kitchen appliance designed to brew fresh coffee quickly and efficiently. Whether you prefer a bold espresso or a smooth drip brew, this machine simplifies the process and ensures consistent taste every time. Perfect for home",
         "price":400.05,
-        "image":"../../image/coffee.png"
+        "image":"././image/coffee.png"
     },
     {
         "id":3,
@@ -19,69 +19,69 @@
         "description":"A hair straightener is a must-have beauty tool for achieving sleek, straight, and polished hairstyles with ease. Featuring ceramic or tourmaline plates, it heats evenly to reduce frizz and add shine while protecting hair from damage. Ideal for daily use"
 ,
         "price":150.08,
-        "image":"../../image/hair.jpg"
+        "image":"././image/hair.jpg"
     },
     {
         "id":4,
         "title":"Steam Iron",
         "description":"A steam iron combines heat and steam to remove wrinkles and freshen fabrics with ease. Its powerful steam burst penetrates deep into clothes, while the smooth soleplate glides effortlessly for a crisp, professional finish.",
         "price":230.15,
-        "image":"../../image/iron.png"
+        "image":"././image/iron.png"
     },
     {
         "id":5,
         "title":"Cooler",
         "description":"A cooler is an energy-efficient appliance designed to reduce indoor temperatures by circulating cool, fresh air using water evaporation technology. Unlike traditional air conditioners, coolers consume less power and are environmentally friendly",
         "price":120.20,
-        "image":"../../image/air.png"
+        "image":"././image/air.png"
     },
     {
         "id":6,
         "title":"Toaster Oven",
         "description":"A toaster oven is a compact and versatile appliance that goes beyond just toasting bread. It can bake, broil, reheat, and even roast small meals with precision. With adjustable temperature settings and multiple cooking functions",
         "price":320.20,
-        "image":"../../image/toaster.png"
+        "image":"././image/toaster.png"
     },
     {
         "id":7,
         "title":"Water Heater",
         "description":"A water heater provides hot water on demand for showers, sinks, and household tasks. With efficient heating technology and adjustable temperature control, it ensures you never run out of warm water. Available in various sizes" ,
         "price":420.30,
-        "image":"../../image/water.png"
+        "image":"././image/water.png"
     },
     {
         "id":8,
         "title":"Vacuum Cleaner",
         "description":"A vacuum cleaner is a powerful and essential home cleaning appliance designed to remove dust, dirt, and allergens from carpets, floors, and upholstery. With different modes, attachments, and suction levels, it makes deep cleaning fast and effective",
         "price":390.11,
-        "image":"../../image/vacuum.png"
+        "image":"././image/vacuum.png"
     },
     {
         "id":9,
         "title":"Air Freshener ",
         "description":"An air freshener is a simple yet effective solution to eliminate unpleasant odors and refresh the atmosphere in your home, office, or car. It disperses a pleasant scent that enhances mood, promotes relaxation,&creates a welcoming environment",
         "price":95.8,
-        "image":"../../image/humi.png" 
+        "image":"././image/humi.png" 
     },
     {
         "id":10,
         "title":"Electric kettle",
         "description":"An electric kettle is a fast and energy-efficient appliance used to boil water for tea, coffee, instant noodles, and more. With auto shut-off, boil-dry protection, and ergonomic design, it ensures safe and quick operation",
         "price":100.02,
-        "image":"../../image/kettle.png"
+        "image":"././image/kettle.png"
     },
     {
         "id":11,
         "title":"Waffle Maker",
         "description":"A waffle maker is a fun and functional appliance that lets you prepare golden, crispy waffles right from your kitchen. Designed with non-stick plates and even heating elements, it ensures perfect results with every batch",
         "price":270.03,
-        "image":"../../image/electric.png"
+        "image":"././image/electric.png"
     },
     {
         "id":12,
         "title":"Dishwasher",
         "description":"A dishwasher is a modern kitchen essential that saves time and water by cleaning and drying dishes automatically. It offers various wash cycles for different needs, from delicate glassware to heavily soiled pots. With energy-efficient performance and smart features,",
         "price":310.03,
-        "image":"../../image/dis.jpg"
+        "image":"././image/dis.jpg"
     }
 ]

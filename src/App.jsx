@@ -23,7 +23,10 @@ const router = createBrowserRouter (
       <Route path='/feature' element={<Features />}/>
       <Route path='/about' element={<About />}/>
     </Route>
-  )
+  ),
+  {
+    basename:"/React-Electronic-Dev"
+  }
 )
 
 const App = () => {

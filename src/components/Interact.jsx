@@ -1,7 +1,7 @@
 import {FaStar} from 'react-icons/fa';
 import profile1 from '../assets/image/profile1.png';
 import profile2 from '../assets/image/profile2.png';
-import profile4 from '../assets/image/profile4.jpg';
+// import profile4 from '../assets/image/profile4.jpg';
 import profile5 from '../assets/image/profile5.jpg';
 import like from '../assets/image/like.png';
 
@@ -34,7 +34,7 @@ return (
                 <div className="flex flex-row mx-10  md:mx-10 mb-2">
                     <img src={profile1} loading='lazy' className='w-10  h-10  object-cover rounded-full' alt="" />
                     <img src={profile2} loading='lazy' className='w-10  h-10  object-cover rounded-full -ml-2' alt="" />
-                    <img src={profile4} loading='lazy' className='w-10 h-10 object-cover rounded-full -ml-2' alt="" />
+                    <img src={profile5} loading='lazy' className='w-10 h-10 object-cover rounded-full -ml-2' alt="" />
                     <img src={profile5} loading='lazy' className='w-10 h-10 object-cover rounded-full -ml-2' alt="" />
                     <img src={profile1} loading='lazy' className='w-10 h-10 object-cover rounded-full -ml-2' alt="" />
                 </div>

@@ -1,7 +1,6 @@
 import service2 from '../../assets/image/service2.jpg'
 import profile1 from '../../assets/image/profile1.png'
 import profile2 from '../../assets/image/profile2.png'
-import profile4 from '../../assets/image/profile4.jpg'
 import profile5 from '../../assets/image/profile5.jpg'
 import FooterLink from '../FooterLink'
 
@@ -93,7 +92,7 @@ return (
     {/* Customer 3 */}
     <div className="bg-white rounded-xl shadow-lg p-6 flex flex-col items-center text-center">
     <img
-    src={profile4}
+    src={profile5}
     alt="Customer 3"
         className="w-16 h-16 object-cover rounded-full border-2 border-green-300 mb-3"
     />

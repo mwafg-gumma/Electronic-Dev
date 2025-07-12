@@ -19,7 +19,7 @@ const Navbar = ({count}) => {
                 {/* Icons */}
                 <div className="flex md:flex flex-row justify-center mx-3">
                     <div className="relative">
-                        <NavLink to =''> 
+                        <NavLink to ="/" className='relative'> 
                             <FaShoppingCart className='text-3xl mx-3 text-gray-700' />
                             <span className='text-sm absolute top-0 right-2 bg-red-500 text-white px-1 rounded-full'>{count}</span>
                             </NavLink>

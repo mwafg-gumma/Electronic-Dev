@@ -39,7 +39,7 @@ return (
                             View Details
                         </button>
                     </NavLink>
-                        <NavLink to="">
+                        <NavLink to="/">
                             <FaShoppingCart className='text-2xl text-lime-400 mt-3 cursor-pointer hover:text-lime-500 ' onClick={onAddToCart} />
                         </NavLink>
                         </div>

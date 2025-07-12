@@ -7,7 +7,7 @@ import {toast} from 'react-toastify'
 
 const Basket = () => {
 const { id } = useParams();
-const product = products.find(p => p.id === parseInt(id));
+const product = products.find(product =>product.id == parseInt(id));
 
 if (!product) return <p>Product not found</p>;
 

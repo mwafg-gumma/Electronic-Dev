@@ -10,7 +10,7 @@ return (
     <section>
 <div className="relative w-full h-[400px] flex items-center justify-center overflow-hidden rounded-md shadow-2xl ">
 {/* Main Image */}
-<img src={service2} alt="Main" loading='lazy' className="w-full h-full object-cover scale-1 transition-transform duration-700"
+<img src={service2} alt="Main" className="w-full h-full object-cover scale-1 transition-transform duration-700"
 />
 {/* Dark Overlay with gradient */}
 <div className="absolute inset-0 bg-gradient-to-br from-black/70 via-black/40 to-transparent z-10"></div>
@@ -42,7 +42,7 @@ return (
         className="px-4 py-2 rounded-full outline-none border-none bg-transparent text-gray-700 w-40 md:w-72"
     />
         <button
-    type="submit"
+    type="submit" title='Send Message'
     className="flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white font-semibold px-6 py-2 rounded-full transition"
     >
         <svg xmlns="http://www.w3.org/2000/svg" className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -70,7 +70,7 @@ return (
     <p className="text-gray-600 text-sm mb-4 text-center w-full ">
         "Amazing service and fast delivery!"
     </p>
-    <button className="bg-green-400 text-white px-5 py-1 rounded-full font-semibold hover:bg-green-600 transition">
+    <button className="bg-green-400 text-white px-5 py-1 rounded-full font-semibold hover:bg-green-600 transition" title='Message Customer 1'>
         Message
     </button>
     </div>
@@ -85,7 +85,7 @@ return (
     <p className="text-gray-600 text-sm mb-4 text-center w-full">
         "Great quality products and support."
     </p>
-    <button className="bg-green-400 text-white px-5 py-1 rounded-full font-semibold hover:bg-green-600 transition">
+    <button className="bg-green-400 text-white px-5 py-1 rounded-full font-semibold hover:bg-green-600 transition" >
         Message
     </button>
     </div>
@@ -100,7 +100,7 @@ return (
     <p className="text-gray-600 text-sm mb-4 text-center w-full">
         "Very helpful and friendly staff in my opinion visit This Store"
     </p>
-    <button className="bg-green-400 text-white px-5 py-1 rounded-full font-semibold hover:bg-green-600 transition">
+    <button className="bg-green-400 text-white px-5 py-1 rounded-full font-semibold hover:bg-green-600 transition"  >
         Message
     </button>
     </div>

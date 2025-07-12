@@ -32,11 +32,11 @@ return (
             {/* 2 */}
             <div className="mx-3 mt-5">
                 <div className="flex flex-row mx-10  md:mx-10 mb-2">
-                    <img src={profile1} loading='lazy' className='w-10  h-10  object-cover rounded-full' alt="" />
-                    <img src={profile2} loading='lazy' className='w-10  h-10  object-cover rounded-full -ml-2' alt="" />
-                    <img src={profile5} loading='lazy' className='w-10 h-10 object-cover rounded-full -ml-2' alt="" />
-                    <img src={profile5} loading='lazy' className='w-10 h-10 object-cover rounded-full -ml-2' alt="" />
-                    <img src={profile1} loading='lazy' className='w-10 h-10 object-cover rounded-full -ml-2' alt="" />
+                    <img src={profile1}  className='w-10  h-10  object-cover rounded-full' alt="" />
+                    <img src={profile2} loading="lazy" className='w-10  h-10  object-cover rounded-full -ml-2' alt="" />
+                    <img src={profile5}  className='w-10 h-10 object-cover rounded-full -ml-2' alt="" />
+                    <img src={profile5}  className='w-10 h-10 object-cover rounded-full -ml-2' alt="" />
+                    <img src={profile1}  className='w-10 h-10 object-cover rounded-full -ml-2' alt="" />
                 </div>
                 <div className=" px-10 flex flex-row items-center ">
                     <img src={like} className="w-5 h-5 object-cover rounded-full" alt="" /> 
